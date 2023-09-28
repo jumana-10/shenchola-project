@@ -44,7 +44,7 @@ header h1 {
 }
 
 .bannerpic {
-    background-image: url('/image/ride.jpg');
+    background-image: url('ride.jpg');
     background-size: cover;
     background-position: center;
     width: 100%;
